@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/langit"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnLM"
+        android:layout_gravity="bottom|center"
+        android:layout_margin="40dp"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="610dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center|left"
+        app:srcCompat="@drawable/ic_baseline_keyboard_arrow_left_24"
+        app:tint="@color/white"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="353dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center|right"
+        app:srcCompat="@drawable/ic_baseline_keyboard_arrow_right_24"
+        app:tint="@color/white"
+        tools:layout_editor_absoluteX="268dp"
+        tools:layout_editor_absoluteY="341dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center"
+        android:text="@string/judul"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:layout_margin="40dp"
+        tools:layout_editor_absoluteX="177dp"
+        tools:layout_editor_absoluteY="58dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="102dp"
+        android:layout_height="106dp"
+        android:layout_gravity="top|left"
+        app:srcCompat="@drawable/bulan" />
+</FrameLayout>

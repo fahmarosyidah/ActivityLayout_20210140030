@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nama">Osyi</string>
+    <string name="nim">20210140030</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="judul">"Night"</string>
+    <string name="btnLM">Learn More</string>
+    <string name="lgn">Login</string>
+    <string name="user">Username :</string>
+    <string name="pwd">Password :</string>
+    <string name="hintuser">Masukkan Username Anda</string>
+    <string name="hintpwd">Masukkan Password Anda</string>
+    <string name="to">To:</string>
+    <string name="subject">Subject:</string>
+    <string name="message">Message:</string>
+    <string name="send">Send</string>
+
+</resources>
