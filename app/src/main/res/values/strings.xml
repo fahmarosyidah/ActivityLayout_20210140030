@@ -3,16 +3,20 @@
     <string name="nama">Osyi</string>
     <string name="nim">20210140030</string>
     <string name="btnSubmit">Submit</string>
-    <string name="judul">"Night"</string>
+    <string name="title">"Night"</string>
     <string name="btnLM">Learn More</string>
     <string name="lgn">Login</string>
     <string name="user">Username :</string>
+    <string name="email">Email :</string>
     <string name="pwd">Password :</string>
     <string name="hintuser">Masukkan Username Anda</string>
+    <string name="hintemail">Masukkan Email Anda</string>
     <string name="hintpwd">Masukkan Password Anda</string>
-    <string name="to">To:</string>
-    <string name="subject">Subject:</string>
-    <string name="message">Message:</string>
-    <string name="send">Send</string>
+    <string name="btn1">Button 1</string>
+    <string name="btn2">Button 2</string>
+    <string name="text1">Match Parent</string>
+    <string name="text2">Select Your Motorcycle</string>
+    <string name="btnRight">Right</string>
+    <string name="btnLeft">Left</string>
 
 </resources>

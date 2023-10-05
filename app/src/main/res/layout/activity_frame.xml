@@ -48,7 +48,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="top|center"
-        android:text="@string/judul"
+        android:text="@string/title"
         android:textColor="@color/white"
         android:textSize="40dp"
         android:layout_margin="40dp"
